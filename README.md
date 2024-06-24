@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on Machine Learning and NLP, good hands on exposure of SQL,Python ML etc,.<br>Working as Data Analyst Nona Lifestyle vidhya, seeking opportunities as Data analyst/ data scientist 
+Currently working on Machine Learning and NLP, good hands on exposure of SQL,Python ML etc,.<br>
 
 
 ## 🌐 Socials:
